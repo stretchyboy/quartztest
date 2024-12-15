@@ -6,7 +6,7 @@ This is random musing and testing of stuff
 
 
 
-![[blackicon.jpg]]
+![[blackicon.jpg|300]]
 
 
 
