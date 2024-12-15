@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Welcome to StretchyBot
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is random musing and testing of stuff
+
+
+
+![[blackicon.jpg]]
